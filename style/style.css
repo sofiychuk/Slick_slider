@@ -26,7 +26,7 @@ body {
 }
 
 .ba-header__text::after {
-    content: url('/img/Rectangle6.png');
+    content: url('../img/Rectangle6.png');
     position: absolute;
     right: 140px;
     top: 30px;
@@ -41,7 +41,7 @@ body {
 }
 
 .ba-header__title::before {
-    content: url('/img/Rectangle\ 7\ copy.png');
+    content: url('../img/Rectangle\ 7\ copy.png');
     position: absolute;
     top: 220px;
     left: -50px;
